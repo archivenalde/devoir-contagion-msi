@@ -1,0 +1,28 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Diagramme de cas d'utilisation}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Le diagramme}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Description}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Les acteurs}{4}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Le cadre d'\IeC {\'e}tude}{4}{subsubsection.1.2.2}
+\contentsline {paragraph}{\leavevmode {\color {myGreen}Informations de l\IeC {\textquoteright }utilisateur et accession \IeC {\`a} l\IeC {\textquoteright }application}}{4}{section*.2}
+\contentsline {paragraph}{\leavevmode {\color {myKaki}L'ajout d'amis}}{4}{section*.3}
+\contentsline {paragraph}{\leavevmode {\color {myBlue}Compte Facebook}}{4}{section*.4}
+\contentsline {paragraph}{\leavevmode {\color {myPurple}Aimer et poster une image}}{5}{section*.5}
+\contentsline {paragraph}{\leavevmode {\color {myOrange}Syst\IeC {\`e}me d'affichage d'une image ou d'une publicit\IeC {\'e}}}{5}{section*.6}
+\contentsline {paragraph}{\leavevmode {\color {myDarkBlue}Affichages d'informations sur une image}}{5}{section*.7}
+\contentsline {paragraph}{\leavevmode {\color {myDarkRed}Signalement d'une image}}{5}{section*.8}
+\contentsline {paragraph}{Le cas d'utilisation \IeC {\guillemotleft } Envoyer SMS \IeC {\guillemotright }}{5}{section*.9}
+\contentsline {section}{\numberline {2}Diagramme de classes}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Le diagramme}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Description}{6}{subsection.2.2}
+\contentsline {section}{\numberline {3}Diagramme d'\IeC {\'e}tats-transitions}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Le diagramme}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Description}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Les \IeC {\'e}tats}{8}{subsubsection.3.2.1}
+\contentsline {paragraph}{Post\IeC {\'e}e}{8}{section*.10}
+\contentsline {paragraph}{Populaire}{8}{section*.11}
+\contentsline {paragraph}{Invisible}{8}{section*.12}
+\contentsline {subparagraph}{Signal\IeC {\'e}e}{8}{section*.13}
+\contentsline {subparagraph}{Examin\IeC {\'e}e}{8}{section*.14}
+\contentsline {subparagraph}{Effac\IeC {\'e}e}{8}{section*.15}
+\contentsline {subsubsection}{\numberline {3.2.2}Les transitions}{8}{subsubsection.3.2.2}
